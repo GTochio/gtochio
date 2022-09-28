@@ -7,7 +7,12 @@
 ## Me Localize
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtochio)](https://www.linkedin.com/in/gtochio)
 
+## Técnologias em que ja tive algum contato
 
+<div align="left">
+  <img src="https://cdn.cdnlogo.com/logos/s/91/spring.svg" height="40" width="52" alt="javascript logo"  />
+  
+</div>
 
 <!--
 **GTochio/gtochio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
