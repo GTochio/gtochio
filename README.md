@@ -1,5 +1,9 @@
-### Hi there 👋
-### Teste 2022
+### Olá sou Gabriel Tochio 👋
+
+## Me Localize
+[![Linkedin Badge]()]()
+
+
 
 <!--
 **GTochio/gtochio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
