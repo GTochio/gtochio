@@ -1,5 +1,9 @@
 ### Olá sou Gabriel Tochio 👋
 
+## Sobre Mim
+💻 Analista de Sistemas
+📘 Graduado em Tecnologia em Analise e Desenvolvimento de Sistemas, Centro Universitario Integrado
+
 ## Me Localize
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtochio)](https://www.linkedin.com/in/gtochio)
 
