@@ -10,10 +10,10 @@
 
 ## Me Localize
 <div>
-    <a href="(https://linkedin.com/in/gtochio)" target="_blank">
+    <a href="https://linkedin.com/in/gtochio" target="_blank">
         <img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="52" height="40" alt="linkedin logo">
     </a>
-    <a href="https://cdnlogo.com/logo/twitter-square-icon_503.html">
+    <a href="https://twitter.com/gabriel_tochio">
        <img src="https://cdn.cdnlogo.com/logos/t/35/twitter.svg" width="52" height="40" alt="twitter logo">
     </a>
     <a href="https://instagram.com/gabrieltochio">
