@@ -1,7 +1,7 @@
 ### Olá sou Gabriel Tochio 👋
 
 ## Me Localize
-[![Linkedin Badge]()]()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtochio)](https://www.linkedin.com/in/gtochio)
 
 
 
