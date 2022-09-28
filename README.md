@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.cdnlogo.com/logos/o/94/oracle.svg" height="40" width="52" alt="Oracle logo"  />
-  <img src="https://cdn.cdnlogo.com/logos/p/79/php.svg" height="40" width="52" alt="PHP logo"  />
+  <img src="https://cdn.cdnlogo.com/logos/p/71/php.svg" height="40" width="52" alt="PHP logo"  />
   
 </div>
 
