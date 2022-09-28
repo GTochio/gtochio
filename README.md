@@ -10,10 +10,18 @@
 
 ## Me Localize
 <div>
-    <a href="[https://cdnlogo.com/logo/linkedin-icon_39423.html](https://www.linkedin.com/in/gtochio)"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg"></a>
+    <a href="(https://www.linkedin.com/in/gtochio)" target="_blank">
+        <img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="52" height="40" alt="linkedin logo">
+    </a>
+    <a href="https://cdnlogo.com/logo/twitter-square-icon_503.html">
+       <img src="https://cdn.cdnlogo.com/logos/t/35/twitter.svg" width="52" height="40" alt="twitter logo">
+    </a>
+    <a href="https://instagram.com/gabrieltochio">
+       <img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="52" height="40" alt="twitter logo">
+    </a>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtochio)](https://www.linkedin.com/in/gtochio)
+
 
 ## Técnologias em que ja tive algum contato
 
