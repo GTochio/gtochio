@@ -10,7 +10,7 @@
 
 ## Me Localize
 <div>
-    <a href="(https://www.linkedin.com/in/gtochio)" target="_blank">
+    <a href="(https://linkedin.com/in/gtochio)" target="_blank">
         <img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="52" height="40" alt="linkedin logo">
     </a>
     <a href="https://cdnlogo.com/logo/twitter-square-icon_503.html">
