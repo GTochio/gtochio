@@ -1,10 +1,18 @@
 ### Olá sou Gabriel Tochio 👋
 
 ## Sobre Mim
-💻 Analista de Sistemas
-📘 Graduado em Tecnologia em Analise e Desenvolvimento de Sistemas, Centro Universitario Integrado
+- 💻 Analista de Sistemas, Credicoamo - Crédito Rural Cooperativa
+- 📘 Graduado em Tecnologia em Analise e Desenvolvimento de Sistemas, Centro Universitario Integrado
+- 📚 Pós Graduando em Técnologia Java, UTFPR - Universidade Técnologica Federal do Paraná
+- 🏡 Brasileiro
+- 🌎 Paraná 
+- ✈️ Brasil
 
 ## Me Localize
+<div>
+    <a href="[https://cdnlogo.com/logo/linkedin-icon_39423.html](https://www.linkedin.com/in/gtochio)"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg"></a>
+</div>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtochio)](https://www.linkedin.com/in/gtochio)
 
 ## Técnologias em que ja tive algum contato
