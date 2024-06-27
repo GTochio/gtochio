@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 💻 Analista de Sistemas, Credicoamo - Crédito Rural Cooperativa
 - 📘 Graduado em Tecnologia em Analise e Desenvolvimento de Sistemas, Centro Universitario Integrado
-- 📚 Pós Graduando em Técnologia Java, UTFPR - Universidade Técnologica Federal do Paraná
+- 📚 Pós Graduado em Técnologia Java, UTFPR - Universidade Técnologica Federal do Paraná
 - 🏡 Brasileiro
 - 🌎 Paraná 
 - ✈️ Brasil
